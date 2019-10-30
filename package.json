@@ -1,0 +1,20 @@
+{
+  "name": "python-docstring-templates",
+  "main": "./lib/python-docstring-templates",
+  "version": "0.0.0",
+  "description": "Insert a basic docstring template for Python functions",
+  "keywords": [
+      "Python",
+      "docstring"
+  ],
+  "activationCommands": {
+    "atom-workspace": "python-docstring-templates:insert"
+  },
+  "repository": "https://github.com/paxet/python-docstring-templates",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
