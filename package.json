@@ -1,7 +1,7 @@
 {
   "name": "python-docstring-templates",
   "main": "./lib/python-docstring-templates",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Insert a basic docstring template for Python functions",
   "keywords": [
     "Python",
