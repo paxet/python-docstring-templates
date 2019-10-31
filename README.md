@@ -1,4 +1,4 @@
-# python-docs package
+# python-docstring-template package
 
 Insert a basic function docstring template on .py files with Ctrl+Alt+D
 
@@ -6,7 +6,7 @@ Insert a basic function docstring template on .py files with Ctrl+Alt+D
 
 ## Install
 
-apm install python-docs
+apm install python-docstring-template
 
 ## License
 Copyright © 2019 [Javier Caballero](https://github.com/paxet).
