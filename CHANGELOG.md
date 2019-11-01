@@ -1,3 +1,5 @@
+## 0.2.0 - Choose your template
+* Select between 'docBlockr', 'Epytext', 'Googledoc', 'Numpydoc' and 'reStructuredText' to be used.
 ## 0.1.2 - Fixing typos
 * Fixing the Readme
 ## 0.1.1 - Making a demo
